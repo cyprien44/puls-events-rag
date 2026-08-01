@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "Que puis-je faire avec mes enfants à Paris ?",
+    "theme_attendu": "enfants / famille",
+    "infos_cles_attendues": ["au moins un événement destiné aux enfants ou aux familles"],
+    "type": "standard",
+    "note": "Le mot 'enfant' est présent, test de base."
+  },
+  {
+    "id": 2,
+    "question": "Où amener un enfant curieux de sciences et de nature ?",
+    "theme_attendu": "enfants / sciences / nature",
+    "infos_cles_attendues": ["un événement type muséum, jardin des plantes, ou atelier scientifique"],
+    "type": "sens",
+    "note": "Aucun mot-clé exact d'un titre : teste la compréhension sémantique."
+  },
+  {
+    "id": 3,
+    "question": "Y a-t-il des concerts ou de la musique ?",
+    "theme_attendu": "musique / concert",
+    "infos_cles_attendues": ["au moins un concert réel de la base"],
+    "type": "standard",
+    "note": "Thème bien représenté (45 événements)."
+  },
+  {
+    "id": 4,
+    "question": "J'aimerais écouter des artistes jouer en direct",
+    "theme_attendu": "musique / concert",
+    "infos_cles_attendues": ["un concert ou une performance musicale live"],
+    "type": "sens",
+    "note": "Reformulation sans le mot 'concert' : teste le sens."
+  },
+  {
+    "id": 5,
+    "question": "Je cherche une exposition d'art contemporain",
+    "theme_attendu": "exposition / art",
+    "infos_cles_attendues": ["au moins une exposition ou galerie réelle"],
+    "type": "standard",
+    "note": "Thème très bien représenté (100 événements)."
+  },
+  {
+    "id": 6,
+    "question": "Quelles visites guidées sont proposées ?",
+    "theme_attendu": "visite guidée",
+    "infos_cles_attendues": ["au moins une visite guidée réelle"],
+    "type": "standard",
+    "note": "Thème le plus représenté (448 événements)."
+  },
+  {
+    "id": 7,
+    "question": "Propose-moi une activité manuelle où je fabrique quelque chose",
+    "theme_attendu": "atelier",
+    "infos_cles_attendues": ["un atelier créatif ou d'initiation"],
+    "type": "sens",
+    "note": "Sans le mot 'atelier' : teste le sens (105 ateliers dispo)."
+  },
+  {
+    "id": 8,
+    "question": "Y a-t-il des événements autour de l'histoire et du patrimoine ?",
+    "theme_attendu": "patrimoine / histoire",
+    "infos_cles_attendues": ["un événement lié au patrimoine ou à l'histoire"],
+    "type": "standard",
+    "note": "Thème bien représenté (65 événements)."
+  },
+  {
+    "id": 9,
+    "question": "Peux-tu me recommander un match de football américain ?",
+    "theme_attendu": "aucun (hors périmètre)",
+    "infos_cles_attendues": ["le système doit indiquer qu'il ne trouve rien de pertinent"],
+    "type": "piege",
+    "note": "Test anti-hallucination : ne doit rien inventer."
+  },
+  {
+    "id": 10,
+    "question": "Je voudrais réserver un vol pour Tokyo",
+    "theme_attendu": "aucun (hors sujet total)",
+    "infos_cles_attendues": ["le système doit indiquer que cela ne concerne pas les événements culturels"],
+    "type": "piege",
+    "note": "Hors sujet complet : teste la robustesse."
+  }
+]
