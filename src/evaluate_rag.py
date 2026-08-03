@@ -12,7 +12,7 @@ import json
 from rag_chain import repondre
 
 CHEMIN_JEU_TEST = "data/jeu_de_test.json"
-CHEMIN_RESULTATS = "data/resultats_evaluation.json"
+CHEMIN_RESULTATS = "data/resultats_bruts.json"
 
 
 def charger_jeu_test() -> list:

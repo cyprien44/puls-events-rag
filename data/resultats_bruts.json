@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "Que puis-je faire avec mes enfants à Paris ?",
+    "type": "standard",
+    "theme_attendu": "enfants / famille",
+    "reponse_systeme": "Voici quelques idées d'activités pour profiter de Paris en famille :\n\n- **Visites guidée en famille du Jardin des Plantes \"L'arbre à remonter le temps\"**\n  *Date* : 19 septembre 2026 à 9h\n  *Lieu* : Muséum national d'histoire naturelle - Jardin des Plantes (38 rue Geoffroy Saint-Hilaire, 75005 Paris)\n\n- **Jeux et activités pour enfants autour de l'histoire de Paris**\n  *Date* : 19 septembre 2026 à 11h30\n  *Lieu* : Archives de Paris (18 Boulevard Sérurier, 75019 Paris)\n\n- **Ateliers d'initiation à la boulangerie pour enfants**\n  *Date* : 19 septembre 2026 à 7h\n  *Lieu* : Syndicat des Boulangers du Grand Paris (7 quai d'Anjou, 75004 Paris)",
+    "sources": [
+      "Jeux et activités pour enfants autour de l'histoire de Paris",
+      "Visites guidée en famille du Jardin des Plantes \"L'arbre à remonter le temps\"",
+      "Parcours ludique à l'École militaire de Paris",
+      "Ateliers d'initiation à la boulangerie pour enfants"
+    ],
+    "jugement": ""
+  },
+  {
+    "id": 2,
+    "question": "Où amener un enfant curieux de sciences et de nature ?",
+    "type": "sens",
+    "theme_attendu": "enfants / sciences / nature",
+    "reponse_systeme": "Voici une suggestion parfaite pour un enfant curieux de sciences et de nature :\n\n**Visites guidée en famille du Jardin des Plantes \"L'arbre à remonter le temps\"**\n📅 **19 septembre 2026 à 9h**\n📍 **Muséum national d'histoire naturelle - Jardin des Plantes** (38 rue Geoffroy Saint-Hilaire, 75005 Paris)\n\nUne visite-enquête ludique pour découvrir le plus vieil arbre du Jardin et voyager dans le temps ! 🌳⏳",
+    "sources": [
+      "Visites guidée en famille du Jardin des Plantes \"L'arbre à remonter le temps\"",
+      "À la découverte d'un patrimoine pédagogique d'exception : la collection de zoologie de Sorbonne Université",
+      "Visite du Musée Curie en LSF : une exploration accessible du patrimoine scientifique",
+      "Imaginons les plantes urbaines du futur !"
+    ],
+    "jugement": ""
+  },
+  {
+    "id": 3,
+    "question": "Y a-t-il des concerts ou de la musique ?",
+    "type": "standard",
+    "theme_attendu": "musique / concert",
+    "reponse_systeme": "Voici les événements musicaux disponibles :\n\n1. **Concerts ambulants par l'Association Jeunes Talents**\n   - **Date** : 20 septembre 2026 à 13h\n   - **Lieu** : Archives nationales - Site de Paris (60 Rue des Francs Bourgeois, 75003 Paris)\n\n2. **Concert-conférence** (autour de l'exposition \"Patrimoines en résistance\")\n   - **Date** : 19 septembre 2026 à 14h\n   - **Lieu** : Cité de l'architecture et du patrimoine (1 place du Trocadéro, 75016 Paris)\n\n3. **Concert par les élèves du Conservatoire Hector-Berlioz**\n   - **Date** : 19 septembre 2026 à 15h30\n   - **Lieu** : Conservatoire Hector-Berlioz (6 rue Pierre-Bullet, 75010 Paris)\n\nBonne écoute ! 🎶",
+    "sources": [
+      "Concerts ambulants par l'Association Jeunes Talents",
+      "Ciné-concert pour enfant / Cartoon’est pas si mal !",
+      "Concert",
+      "Concert par les élèves du Conservatoire Hector-Berlioz"
+    ],
+    "jugement": ""
+  },
+  {
+    "id": 4,
+    "question": "J'aimerais écouter des artistes jouer en direct",
+    "type": "sens",
+    "theme_attendu": "musique / concert",
+    "reponse_systeme": "Voici les événements qui correspondent à ta demande :\n\n- **CINÉ-JAZZ : les thèmes légendaires du grand écran**\n  *Date* : 1er août 2026 à 19h30 et 21h30\n  *Lieu* : JASS CLUB, 141 Rue de Tolbiac, Paris\n\n- **GLUE / Music of today**\n  *Date* : 5 septembre 2026 à 19h30 et 21h30\n  *Lieu* : JASS CLUB, 141 Rue de Tolbiac, Paris\n\n- **Concerts ambulants par l'Association Jeunes Talents**\n  *Date* : 20 septembre 2026 à 13h00\n  *Lieu* : Archives nationales - Site de Paris, 60 Rue des Francs Bourgeois, 75003 Paris",
+    "sources": [
+      "Concerts ambulants par l'Association Jeunes Talents",
+      "CINÉ-JAZZ : les thèmes légendaires du grand écran",
+      "GLUE / Music of today",
+      "Expérience : Si j'avais un marteau"
+    ],
+    "jugement": ""
+  },
+  {
+    "id": 5,
+    "question": "Je cherche une exposition d'art contemporain",
+    "type": "standard",
+    "theme_attendu": "exposition / art",
+    "reponse_systeme": "Voici les expositions d'art contemporain disponibles à Paris :\n\n1. **Exposition - Jean-Kenta Gauthier**\n   - **Date** : 12 septembre 2026\n   - **Lieu** : Jean-Kenta Gauthier, 4 rue de la Procession, 75015 Paris\n\n2. **Exposition - Bendana | Pinel Art Contemporain**\n   - **Date** : 2 septembre 2026\n   - **Lieu** : Bendana | Pinel Art Contemporain, 4 rue du Perche, 75003 Paris\n\n3. **Exposition - Galerie Peter Kilchmann**\n   - **Date** : 1er septembre 2026\n   - **Lieu** : Galerie Peter Kilchmann, 13 Rue des Arquebusiers, 75003 Paris",
+    "sources": [
+      "Exposition - Jean-Kenta Gauthier",
+      "Découverte d’une sculpture d’art contemporain au palais de la Légion d'honneur",
+      "Exposition - Bendana | Pinel Art Contemporain",
+      "Exposition - Galerie Peter Kilchmann"
+    ],
+    "jugement": ""
+  },
+  {
+    "id": 6,
+    "question": "Quelles visites guidées sont proposées ?",
+    "type": "standard",
+    "theme_attendu": "visite guidée",
+    "reponse_systeme": "Voici les visites guidées proposées le **19 septembre 2026** à Paris :\n\n1. **Visite guidée**\n   *Date* : 13h15\n   *Lieu* : Ircam – 1 place Igor-Stravinsky, 75004 Paris\n\n2. **Visite guidée des coulisses des Archives de Paris**\n   *Date* : 11h30\n   *Lieu* : Archives de Paris – 18 Boulevard Sérurier, 75019 Paris\n\n3. **Visites guidées - Site Odéon - Université Paris Cité**\n   *Date* : 8h00\n   *Lieu* : Musée d'Histoire de la Médecine – 12 rue de l'École de Médecine, 75006 Paris\n\n4. **Visites guidées : Partez pour une balade inattendue entre nature, art et architectures du monde**\n   *Date* : 13h00\n   *Lieu* : Cité internationale universitaire de Paris – 17 bd Jourdan, 75014 Paris",
+    "sources": [
+      "Visite guidée",
+      "Visite guidée des coulisses des Archives de Paris",
+      "Visites guidées - Site Odéon - Université Paris Cité",
+      "Visites guidées : Partez pour une balade inattendue entre nature, art et architectures du monde"
+    ],
+    "jugement": ""
+  },
+  {
+    "id": 7,
+    "question": "Propose-moi une activité manuelle où je fabrique quelque chose",
+    "type": "sens",
+    "theme_attendu": "atelier",
+    "reponse_systeme": "Voici une activité manuelle où tu peux fabriquer quelque chose :\n\n**Atelier Vannerie sauvage à Paris - JEP 2026**\n📅 **Date** : 19 septembre 2026 à 10h\n📍 **Lieu** : Parc des Buttes-Chaumont\n🔗 [En savoir plus](https://openagenda.com/econature/events/atelier-vannerie-sauvage-a-paris-jep-2026-8446831)\n\nTu pourras créer un panier unique avec une vannière passionnée ! 🧺✨",
+    "sources": [
+      "Les Fabricateurs - « Du déchet à l’œuvre d’art »",
+      "Je tisse Picasso - Restitution d'un projet d'éducation artistique et culturelle",
+      "Atelier Vannerie sauvage à Paris - JEP 2026",
+      "Créé ton quizz de l'été"
+    ],
+    "jugement": ""
+  },
+  {
+    "id": 8,
+    "question": "Y a-t-il des événements autour de l'histoire et du patrimoine ?",
+    "type": "standard",
+    "theme_attendu": "patrimoine / histoire",
+    "reponse_systeme": "Voici les événements autour de l'histoire et du patrimoine disponibles :\n\n1. **Conférence : L'évolution de l'urbanisme et des styles dans le 17ème**\n   - **Date** : 19 septembre 2026 à 9h\n   - **Lieu** : Maison de la vie associative et citoyenne du 17e, 25 rue Lantiez 75017 Paris\n\n2. **Présentation d'archives – Patrimoine en péril, recherche empêchée : les collections de l’INHA au service de la recherche en terrains contraints**\n   - **Date** : 19 septembre 2026 à 8h\n   - **Lieu** : Bibliothèque de l'INHA (Salle Labrouste), 5 rue Vivienne 75002 Paris\n\n3. **Atelier autour de la protection du patrimoine archéologique et des vestiges du Levant**\n   - **Date** : 19 septembre 2026 à 11h\n   - **Lieu** : INHA - galerie Colbert, 2 rue Vivienne 75002 Paris\n\n4. **Mini conférences par des doctorantes et doctorants en histoire de l’art et archéologie autour du patrimoine en danger**\n   - **Date** : 20 septembre 2026 à 13h\n   - **Lieu** : INHA - galerie Colbert, 2 rue Vivienne 75002 Paris",
+    "sources": [
+      "Conférence : L'évolution de l'urbanisme et des styles dans le 17ème",
+      "Présentation d'archives – Patrimoine en péril, recherche empêchée : les collections de l’INHA au service de la recherche en terrains contraints",
+      "Atelier autour de la protection du patrimoine archéologique et des vestiges du Levant, en collaboration avec l’association Routes de l’Orient",
+      "Mini conférences par des doctorantes et doctorants en histoire de l’art et archéologie autour du patrimoine en danger"
+    ],
+    "jugement": ""
+  },
+  {
+    "id": 9,
+    "question": "Peux-tu me recommander un match de football américain ?",
+    "type": "piege",
+    "theme_attendu": "aucun (hors périmètre)",
+    "reponse_systeme": "Aucun événement correspondant à un match de football américain n'est disponible dans le contexte fourni. 😊",
+    "sources": [
+      "Ciné-concert pour enfant / Cartoon’est pas si mal !",
+      "L'art du tirage photographique en noir et blanc | Rencontre",
+      "Les Soeurs Hilton",
+      "Expérience : Si j'avais un marteau"
+    ],
+    "jugement": ""
+  },
+  {
+    "id": 10,
+    "question": "Je voudrais réserver un vol pour Tokyo",
+    "type": "piege",
+    "theme_attendu": "aucun (hors sujet total)",
+    "reponse_systeme": "Désolé, aucun événement à Paris ne correspond à une réservation de vol pour Tokyo.",
+    "sources": [
+      "SOUDAIN · présenté par Ryusuke Hamaguchi & Virginie Efira",
+      "SHIBUUYA!",
+      "DES MATINS MERVEILLEUX · Rencontre avec Avril Besson & Raya Martigny",
+      "Visite de la résidence de l'ambassadeur des Pays-Bas à Paris, l'hôtel d'Avaray"
+    ],
+    "jugement": ""
+  }
+]

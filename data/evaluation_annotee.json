@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Que puis-je faire avec mes enfants à Paris ?",
+    "type": "standard",
+    "jugement": "correcte",
+    "commentaire": "3 événements enfants, tous présents dans les sources, aucune invention."
+  },
+  {
+    "id": 2,
+    "question": "Où amener un enfant curieux de sciences et de nature ?",
+    "type": "sens",
+    "jugement": "correcte",
+    "commentaire": "Sans mot-clé exact : trouve Jardin des Plantes et Cité des Sciences. Preuve du sens."
+  },
+  {
+    "id": 3,
+    "question": "Y a-t-il des concerts ou de la musique ?",
+    "type": "standard",
+    "jugement": "correcte",
+    "commentaire": "3 concerts réels cités, présents dans les sources."
+  },
+  {
+    "id": 4,
+    "question": "J'aimerais écouter des artistes jouer en direct",
+    "type": "sens",
+    "jugement": "correcte",
+    "commentaire": "Sans le mot 'concert' : trouve concerts et jazz. Bonne compréhension sémantique."
+  },
+  {
+    "id": 5,
+    "question": "Je cherche une exposition d'art contemporain",
+    "type": "standard",
+    "jugement": "correcte",
+    "commentaire": "3 expositions réelles citées, présentes dans les sources."
+  },
+  {
+    "id": 6,
+    "question": "Quelles visites guidées sont proposées ?",
+    "type": "standard",
+    "jugement": "correcte",
+    "commentaire": "4 visites guidées, toutes présentes dans les sources."
+  },
+  {
+    "id": 7,
+    "question": "Propose-moi une activité manuelle où je fabrique quelque chose",
+    "type": "sens",
+    "jugement": "correcte",
+    "commentaire": "Sans le mot 'atelier' : trouve l'atelier vannerie. Compréhension du sens."
+  },
+  {
+    "id": 8,
+    "question": "Y a-t-il des événements autour de l'histoire et du patrimoine ?",
+    "type": "standard",
+    "jugement": "correcte",
+    "commentaire": "4 événements patrimoine/histoire, tous présents dans les sources."
+  },
+  {
+    "id": 9,
+    "question": "Peux-tu me recommander un match de football américain ?",
+    "type": "piege",
+    "jugement": "correcte",
+    "commentaire": "Refuse d'inventer malgré des sources hors sujet. Anti-hallucination OK."
+  },
+  {
+    "id": 10,
+    "question": "Je voudrais réserver un vol pour Tokyo",
+    "type": "piege",
+    "jugement": "correcte",
+    "commentaire": "Refuse poliment, n'invente rien malgré des sources 'japonisantes'. Robuste."
+  }
+]
